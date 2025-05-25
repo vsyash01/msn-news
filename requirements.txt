@@ -1,0 +1,7 @@
+aiogram
+playwright
+beautifulsoup4
+aiohttp
+python-dotenv
+aiosqlite
+Pillow
